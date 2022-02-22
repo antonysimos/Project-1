@@ -1,0 +1,34 @@
+/* 
+chelsea style sheet 
+*/
+
+body{
+	background-color:  blue ;
+	text-align: center ;
+/*	border:  2px solid white;
+*/}
+
+title{
+	border : 2px solid gold;
+}
+
+h1, h2{ 
+	color:  gold ;
+
+ }
+
+ p{
+ 	color:  white ;
+
+ }
+
+ a{
+ 	color : gold; 
+ 	font-size: 12px;
+ }
+
+ li{
+ 	color : white; 
+ 	font-size : 24px; 
+ 	text-align: left;
+ }
