@@ -1,0 +1,29 @@
+body{
+  display : block;
+  background-color: red ;
+  text-align: center ;
+  border: 2px solid white;
+}
+
+title{
+  border: 2px solid white;
+}
+
+h1, h2{
+  color: black;
+}
+
+p{
+  color: black;
+}
+
+a{
+  color: black
+  font-size: 12 px;
+}
+
+li{
+  color: black;
+  font-size: 24px;
+  text-align: left;
+}
