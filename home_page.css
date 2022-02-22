@@ -1,0 +1,15 @@
+body{
+	font-family : arial;
+	background-color : "purple" ;
+	text-align:  center;  
+}
+
+h1 , h2{
+	font-family: Times;
+	font-size: 12px;
+}
+
+a{
+	font-family : arial; 
+	background-color: white ;
+}
