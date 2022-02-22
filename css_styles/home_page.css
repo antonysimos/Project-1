@@ -1,0 +1,22 @@
+body{
+	font-family : arial;
+	text-align:  center;  
+	display: block;
+	background-color: wheat;
+
+}
+
+h1 , h2{
+	font-family: Times;
+	font-size: 36px;
+}
+
+a{
+	font-family : arial; 
+	color : magenta;
+}
+
+ul{
+	text-decoration: none;
+	list-style: none;
+}
